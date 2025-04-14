@@ -118,7 +118,11 @@ pip install -r requirements.txt
 Made with ❤️ for Daksh'25 STEM Hackathon  
 Project by **[Your Name]**  
 [LinkedIn] | [GitHub]
-=======
+
 # voice-cognitive-risk-detector
 This project analyzes voice recordings to identify potential signs of cognitive decline using NLP and audio signal processing features.
->>>>>>> 80aaa75209d74651a440fd79c724cbc4e30366d0
+ 80aaa75209d74651a440fd79c724cbc4e30366d0
+
+# voice-cognitive-risk-detector
+This project analyzes voice recordings to identify potential signs of cognitive decline using NLP and audio signal processing features.
+ 80aaa75209d74651a440fd79c724cbc4e30366d0
