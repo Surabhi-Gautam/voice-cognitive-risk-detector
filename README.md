@@ -1,6 +1,6 @@
  HEAD
 
-# 🧠 Voice-Based Cognitive Decline Detection Pipeline
+# 🧠 Cognivoice: Voice-Based Cognitive Decline Detection Pipeline
 
 ## 📌 Overview
 
